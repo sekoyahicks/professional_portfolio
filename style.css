@@ -1,0 +1,62 @@
+header {
+    background:peachpuff;
+    font-size: 2em;
+    font-family: fantasy;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around
+}
+
+.header {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+#about-me{
+    margin:5% auto 0;
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    color: purple;
+    font-family: fantasy;
+    display: flex;
+    justify-content: center;
+    margin:5% auto 0;
+}
+
+h3 {
+    color: purple;
+    font-family: fantasy;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+    justify-content: center; 
+    font-family: fantasy;
+}
+
+#projects {
+    display: flex;
+    justify-content: center;
+
+}
+#project-list {
+    display: table;
+    padding-left: 46em;
+    margin-top: .5em;
+}
+
+/* .social-media {
+    display: flex;
+    justify-content: center;
+} */
+
+a {
+    display: flex;
+    justify-content: center; 
+    font-family: fantasy; 
+    color: orange;
+}
